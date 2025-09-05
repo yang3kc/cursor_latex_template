@@ -10,3 +10,6 @@
 *.synctex.gz
 *.bbl
 *.blg
+
+.cursor/
+.gitignore
