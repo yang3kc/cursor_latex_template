@@ -11,5 +11,7 @@
 *.bbl
 *.blg
 
+main.pdf
+
 .cursor/
 .gitignore
