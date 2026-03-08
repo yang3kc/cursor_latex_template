@@ -1,4 +1,4 @@
-# LaTeX intermediate files
+# Core LaTeX intermediate files
 *.aux
 *.log
 *.out
@@ -8,10 +8,35 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+
+# Bibliography
 *.bbl
 *.blg
+*.bcf
+*.run.xml
 
+# Index and glossary
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# Other LaTeX intermediates
+*.dvi
+*.thm
+comment.cut
+
+# Output files
+*.ps
 main.pdf
 
+# OS and editor files
+.DS_Store
 .cursor/
 .gitignore
